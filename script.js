@@ -15,7 +15,7 @@ const alarmList = []; // Stores all the alarms being set
 // Plays the alarm audio at right time
 function ring(realTime) {
     audio.play();
-    alert(`It's ${realTime}`);
+    // alert(`It's ${realTime}`);
 }
 
 // Shows the real time
