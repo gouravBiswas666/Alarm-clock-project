@@ -6,6 +6,4 @@ ABOUT THIS PROJECT -->
 
 I Created This Project By Using HTML - CSS - VANILA JAVASCRIPT With No Libraries Or Framework
 
-How To Use -->
-
 
