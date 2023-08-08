@@ -3,7 +3,7 @@ ABOUT THIS PROJECT -->
 
 I Created This Project By Using HTML - CSS - VANILA JAVASCRIPT With No Libraries Or Framework
 
-🟢 ＨＯＳＴＥＤ ＬＩＮＫ ➡️ 
+🟢 ＨＯＳＴＥＤ ＬＩＮＫ ➡️ https://gouravbiswas666.github.io/Alarm-clock-project/
 
 
 𝗦𝗖𝗥𝗘𝗘𝗡𝗧𝗦𝗛𝗢𝗧 📸❟❛
